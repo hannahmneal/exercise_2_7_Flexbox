@@ -1,16 +1,20 @@
+.pageHeader {
+    /* display: flex; */
+    /* align-content: center; */
+    text-align: center;
+}
+
 .shop {
     border: 1px solid black;
+    padding: 10px;
+    margin: 5px;
+    width: 25%;
 }
 
 article {
     display: flex;
-    flex-wrap: wrap;
+    flex-flow: row wrap;
     justify-content: space-around;
-    height: 50px;
 }
 
-.section {
-    display: flex;
-    height: 100px;
-    flex-grow: 10;
-}
+
