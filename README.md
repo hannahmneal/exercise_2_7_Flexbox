@@ -8,4 +8,4 @@ This little exercise was made in Visual Studio Code (v. 1.33.0) following the th
 
 - Provided the npm http-server (https://www.npmjs.com/package/http-server) package has been installed and you are working from your command line (following the set of installations provided in the link above), type ```hs -o``` from your command line to view the result of the project.
 
-![Project Overview] https://github.com/hannahmneal/coffeeHousesOfNashville/blob/master/CoffeeHousesOfNashvilleScreenshot.png
+##Project Overview (https://github.com/hannahmneal/coffeeHousesOfNashville/blob/master/CoffeeHousesOfNashvilleScreenshot.png)
